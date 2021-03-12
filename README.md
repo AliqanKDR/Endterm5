@@ -79,5 +79,4 @@ CREATE TABLE public.user_post
         ON UPDATE CASCADE
         ON DELETE CASCADE
 )
-___
-___
+
