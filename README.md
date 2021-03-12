@@ -14,7 +14,7 @@ Admin login: admin@gmail.com
 Admin password: 12345
 ___
 
-    ___DATABASE___
+___DATABASE___
 
       Table Role:
       CREATE TABLE public.role
