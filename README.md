@@ -11,4 +11,5 @@ This program allows the admin to create posts, delete them, create users, give t
 Users can display all the posts, save it to their profile and delete them.
 
 Admin login: admin@gmail.com
+
 Admin password: 12345
