@@ -1,6 +1,7 @@
 # Endterm
 
 In this project, I developed a program for posting posts.
+___
 
 The project consists of classes: User, Role, Post, Category.
 
